@@ -14,16 +14,8 @@ For comfortable game management for the team, it has real-time tracking dashboar
 
 # Getting Started
 
-<b>Clone the repository</b>
-<br>
-<code>git clone https://github.com/staticdeveloper/blackjack-backend.git</code>
-<br>
-<b>Install the dependencies</b>
-<br>
-<code>npm install --force</code>
-<br>
-<b>Start the backend server</b>
-<br>
-<code>npm start</code>
+<code>git clone https://github.com/staticdeveloper/blackjack-backend.git
+npm install --force
+npm start</code>
 
 Problems? Feel free to create an issue!
