@@ -14,8 +14,8 @@ For comfortable game management for the team, it has real-time tracking dashboar
 
 # Getting Started
 
-<code>git clone https://github.com/staticdeveloper/blackjack-backend.git
+<blockquote>git clone https://github.com/staticdeveloper/blackjack-backend.git
 npm install --force
-npm start</code>
+npm start</blockquote>
 
 Problems? Feel free to create an issue!
